@@ -1,0 +1,19 @@
+@media (max-width: 1025px){
+    .mainfirst{
+        padding: 32px 40px 60px;
+    }
+}
+@media (max-width: 745px){
+    .mainfirst{
+        padding: 32px 40px 60px;
+    }
+    .shop-div{
+        display: none;  
+    }
+    .header-nav{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}
